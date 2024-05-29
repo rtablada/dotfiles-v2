@@ -1,0 +1,50 @@
+// Empty
+[
+  {
+    "key": "shift+cmd+k shift+cmd+b",
+    "command": "workbench.files.action.showActiveFileInExplorer"
+  },
+  {
+    "key": "alt+cmd+\\",
+    "command": "-workbench.files.action.showActiveFileInExplorer"
+  },
+  {
+    "key": "ctrl+w",
+    "command": "-workbench.action.switchWindow"
+  },
+  {
+    "key": "ctrl+w",
+    "command": "editor.emmet.action.wrapWithAbbreviation"
+  },
+  {
+    "key": "cmd+k cmd+f",
+    "command": "editor.action.formatDocument"
+  },
+  {
+    "key": "ctrl+alt+b",
+    "command": "-editor.action.formatDocument"
+  },
+  {
+    "key": "shift+cmd+d",
+    "command": "-editor.action.copyLinesDownAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+cmd+d",
+    "command": "editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+alt+down",
+    "command": "-editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+cmd+r",
+    "command": "workbench.action.gotoLine"
+  },
+  {
+    "key": "ctrl+g",
+    "command": "-workbench.action.gotoLine"
+  }
+]

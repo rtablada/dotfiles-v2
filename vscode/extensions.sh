@@ -1,0 +1,42 @@
+#!/bin/bash
+#
+
+code --install-extension akamud.vscode-theme-onedark
+code --install-extension assisrmatheus.sidebar-markdown-notes
+code --install-extension asuka.insertnumbers
+code --install-extension azemoh.one-monokai
+code --install-extension bibhasdn.unique-lines
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension britesnow.vscode-toggle-quotes
+code --install-extension cardinal90.multi-cursor-case-preserve
+code --install-extension codezombiech.gitignore
+code --install-extension dkundel.vscode-new-file
+code --install-extension dline.cobaltnext
+code --install-extension dotjoshjohnson.xml
+code --install-extension dzannotti.vscode-babel-coloring
+code --install-extension editorconfig.editorconfig
+code --install-extension esbenp.prettier-vscode
+code --install-extension fabiospampinato.vscode-diff
+code --install-extension flesler.url-encode
+code --install-extension gerane.theme-hyrule
+code --install-extension github.remotehub
+code --install-extension github.vscode-github-actions
+code --install-extension irongeek.vscode-env
+code --install-extension mechatroner.rainbow-csv
+code --install-extension ms-vscode.atom-keybindings
+code --install-extension naumovs.color-highlight
+code --install-extension neptunedesign.vs-sequential-number
+code --install-extension pkief.material-icon-theme
+code --install-extension qinjia.seti-icons
+code --install-extension rokoroku.vscode-theme-darcula
+code --install-extension sleistner.vscode-fileutils
+code --install-extension stuart.unique-window-colors
+code --install-extension stylelint.vscode-stylelint
+code --install-extension sysoev.vscode-open-in-github
+code --install-extension tal7aouy.icons
+code --install-extension usernamehw.errorlens
+code --install-extension waderyan.babelrc
+code --install-extension wesbos.theme-cobalt2
+code --install-extension wix.vscode-import-cost
+code --install-extension wmaurer.change-case
+code --install-extension zhuangtongfa.material-theme
